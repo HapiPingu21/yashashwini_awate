@@ -9,6 +9,7 @@ export const portfolio = {
   github: 'https://github.com/HapiPingu21/congenial-parakeet',
   Instagram:'https://www.instagram.com/its_yashashwiniiiii',
   instagram: 'https://www.instagram.com/its_yashashwiniiiii',
+  cv: 'https://www.overleaf.com/read/rxpgrthdzbfg#a63612',
   availability: 'Open to Working Student & AI/ML Internship roles',
   role: 'Data & AI / Machine Learning Professional',
   intro: 'I’m a Data & AI professional who turns ambitious ideas, unruly datasets, and human questions into useful systems.',

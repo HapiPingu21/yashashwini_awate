@@ -1,6 +1,7 @@
 import './globals.css';
 import './fix.css';
 import './sidequests.css';
+import './space.css';
 
 export const metadata = {
   title: 'Yashashwini Awate — AI & ML Portfolio',
