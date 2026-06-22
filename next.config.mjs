@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const basePath = process.env.GITHUB_ACTIONS === 'true' ? '/yashi_portfolio' : '';
+const basePath = process.env.GITHUB_ACTIONS === 'true' ? '/yashashwini_awate' : '';
 
 export default {
   output: 'export',
